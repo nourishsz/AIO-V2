@@ -1,15 +1,15 @@
 {
-    "clienttoken": "",
+    "clienttoken": "MTM1NjM2OTA2MTAwODkwNDIwMg.GqjeU_.Okww8uZUaELw3gGFhfzXe_2hVIZY_HdBN_fZCA",
     "Note_Token:": "Put Your Bot Token Above (If your using replit then make a new secret 'clienttoken' and put ur bot token there... and then keep this string empty)",
     "clientname": "All in one latest",
     "clientid": "1356369061008904202",
-    "TestingServerID": "1090992049727229972",
+    "TestingServerID": "1355290002287755334",
     "clientavatar": "",
     "prefix": "..",
     "developerID": [
-        "870179991462236170"
+        "1306642651658981459"
     ],
-    "mongooseConnectionString": "mongodb+srv://CodeXpvt:GodCodeX@codexpvt.izfnc7r.mongodb.net/?retryWrites=true&w=majority&appName=CodeXpvt",
+    "mongooseConnectionString": "mongodb+srv://codex-in2:codex-in2@codex-in2.gjv2c.mongodb.net/?retryWrites=true&w=majority",
     "colorthemecode": "#87CEEB",
     "randomMessages_Cooldown": [
         "Wait Dont Spam...",
